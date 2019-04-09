@@ -1,11 +1,11 @@
 # biofuel-profitability
 ABOUT
 
-This repository contains the Stata and UQLab scripts for the application in the article “A framework for profitability evaluation of agroforestry-based biofuel value chains: An application to pongamia in India” by Dalemans, F., Muys, B. and Maertens, M. published in GCB Bioenergy. These scripts apply a profitability framework, developed in the article, to calculate the long-term financial performance of pongamia value chains in Hassan district, South India.
+This repository contains the Stata and UQLab scripts for the application in the article “A framework for profitability evaluation of agroforestry-based biofuel value chains: An application to pongamia in India” by Dalemans, F., Muys, B. and Maertens, M. published in GCB Bioenergy (https://doi.org/10.1111/gcbb.12605). These scripts apply a profitability framework, developed in the article, to calculate the long-term financial performance of pongamia value chains in Hassan district, South India.
 
 HOW TO CITE
 
-Dalemans, F., Muys, B., Maertens, M. (2019). A framework for profitability evaluation of agroforestry-based biofuel value chains: An application to pongamia in India. GCB Bioenergy, In Press.
+Dalemans, F., Muys, B., Maertens, M. (2019). A framework for profitability evaluation of agroforestry-based biofuel value chains: An application to pongamia in India. GCB Bioenergy. 00: 1-19. https://doi.org/10.1111/gcbb.12605
 
 USING THESE FILES
 
